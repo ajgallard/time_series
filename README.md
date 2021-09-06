@@ -4,6 +4,8 @@ Times series data has many unique quirks. Everything from the way Times Series d
 Unlike most other data, times series data typically deals with how historical values influences future values.
 Within this repo, we explore some of these methods including ARIMA methods, the PROPHET module created by Facebook, & a simple RNN model.
 
+Check Out the notebooks ('.ipynb' files) to view each respective walkthrough/example
+
 ## Main Concepts Explored
 * Autocorrelation and Partial Autocorrelation
 * Stationarity & the Adfuller Test
